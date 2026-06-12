@@ -1,6 +1,5 @@
-//Shecmas
 const mongoose = require("mongoose");
-//Data Model
+
 const peopleSchema = mongoose.Schema(
   {
     name: {
